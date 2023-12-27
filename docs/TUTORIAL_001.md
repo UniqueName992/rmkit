@@ -18,7 +18,6 @@ FILES=main.cpy
 // main.cpy
 #include "../build/rmkit.h"
 
-using namespace rmkit
 using namespace std
 
 int main()
